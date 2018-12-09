@@ -1,0 +1,25 @@
+C:\dtcdev\Brandon\Solitaire\Solitaire\bin\Debug\Solitaire.exe.config
+C:\dtcdev\Brandon\Solitaire\Solitaire\bin\Debug\Solitaire.exe
+C:\dtcdev\Brandon\Solitaire\Solitaire\bin\Debug\Solitaire.pdb
+C:\dtcdev\Brandon\Solitaire\Solitaire\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\dtcdev\Brandon\Solitaire\Solitaire\obj\x86\Debug\Solitaire.Form1.resources
+C:\dtcdev\Brandon\Solitaire\Solitaire\obj\x86\Debug\Solitaire.Properties.Resources.resources
+C:\dtcdev\Brandon\Solitaire\Solitaire\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\dtcdev\Brandon\Solitaire\Solitaire\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\dtcdev\Brandon\Solitaire\Solitaire\obj\x86\Debug\Solitaire.exe
+C:\dtcdev\Brandon\Solitaire\Solitaire\obj\x86\Debug\Solitaire.pdb
+C:\dtcdev\Brandon\Solitaire\Solitaire\obj\x86\Debug\Solitaire.Decks.FrmConfirmExit.resources
+\\rosseagar\Inbox\NewSARP\Brandon Dixson\Solitaire v2\Solitaire\bin\Debug\Solitaire.exe.config
+\\rosseagar\Inbox\NewSARP\Brandon Dixson\Solitaire v2\Solitaire\obj\x86\Debug\Solitaire.exe
+\\rosseagar\Inbox\NewSARP\Brandon Dixson\Solitaire v2\Solitaire\obj\x86\Debug\Solitaire.pdb
+\\rosseagar\Inbox\NewSARP\Brandon Dixson\Solitaire\Solitaire v2\Solitaire\bin\Debug\Solitaire.exe.config
+\\rosseagar\Inbox\NewSARP\Brandon Dixson\Solitaire\Solitaire v2\Solitaire\obj\x86\Debug\Solitaire.exe
+\\rosseagar\Inbox\NewSARP\Brandon Dixson\Solitaire\Solitaire v2\Solitaire\obj\x86\Debug\Solitaire.pdb
+\\rosseagar\Inbox\NewSARP\Brandon Dixson\Solitaire\Solitaire v2\Solitaire\bin\Debug\Solitaire.exe
+\\rosseagar\Inbox\NewSARP\Brandon Dixson\Solitaire\Solitaire v2\Solitaire\bin\Debug\Solitaire.pdb
+\\rosseagar\Inbox\NewSARP\Brandon Dixson\Solitaire\Solitaire v2\Solitaire\obj\x86\Debug\Solitaire.Form1.resources
+\\rosseagar\Inbox\NewSARP\Brandon Dixson\Solitaire\Solitaire v2\Solitaire\obj\x86\Debug\Solitaire.Decks.FrmConfirmExit.resources
+\\rosseagar\Inbox\NewSARP\Brandon Dixson\Solitaire\Solitaire v2\Solitaire\obj\x86\Debug\Solitaire.Properties.Resources.resources
+\\rosseagar\inbox\NewSARP\Brandon Dixson\Solitaire\Solitaire v2\Solitaire\obj\x86\Debug\ResolveAssemblyReference.cache
+\\rosseagar\inbox\NewSARP\Brandon Dixson\Solitaire\Solitaire v2\Solitaire\obj\x86\Debug\GenerateResource.read.1.tlog
+\\rosseagar\inbox\NewSARP\Brandon Dixson\Solitaire\Solitaire v2\Solitaire\obj\x86\Debug\GenerateResource.write.1.tlog
